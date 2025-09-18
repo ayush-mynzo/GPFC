@@ -1,0 +1,802 @@
+biome,genus,age,n_obs,n_plot,n_site
+Boreal Forests/Taiga,Larix,10,1,1,1
+Boreal Forests/Taiga,Larix,14,2,1,1
+Boreal Forests/Taiga,Larix,25,1,1,1
+Boreal Forests/Taiga,Larix,38,4,1,1
+Boreal Forests/Taiga,Larix,40,7,1,1
+Boreal Forests/Taiga,Picea,10,1,1,1
+Boreal Forests/Taiga,Picea,12,1,1,1
+Boreal Forests/Taiga,Picea,19,6,1,2
+Boreal Forests/Taiga,Picea,20,16,1,3
+Boreal Forests/Taiga,Picea,21,2,1,1
+Boreal Forests/Taiga,Picea,36,1,1,1
+Boreal Forests/Taiga,Picea,37,2,2,1
+Boreal Forests/Taiga,Picea,38,1,1,1
+Boreal Forests/Taiga,Picea,58,1,1,1
+Boreal Forests/Taiga,Pinus,7,1,1,1
+Boreal Forests/Taiga,Pinus,9,1,1,1
+Boreal Forests/Taiga,Pinus,10,2,2,2
+Boreal Forests/Taiga,Pinus,12,3,2,2
+Boreal Forests/Taiga,Pinus,13,2,1,1
+Boreal Forests/Taiga,Pinus,14,3,3,2
+Boreal Forests/Taiga,Pinus,15,2,1,2
+Boreal Forests/Taiga,Pinus,16,1,1,1
+Boreal Forests/Taiga,Pinus,17,3,1,2
+Boreal Forests/Taiga,Pinus,18,3,1,3
+Boreal Forests/Taiga,Pinus,19,1,1,1
+Boreal Forests/Taiga,Pinus,20,5,1,3
+Boreal Forests/Taiga,Pinus,21,2,1,2
+Boreal Forests/Taiga,Pinus,22,5,1,2
+Boreal Forests/Taiga,Pinus,23,1,1,1
+Boreal Forests/Taiga,Pinus,24,5,1,2
+Boreal Forests/Taiga,Pinus,25,2,1,2
+Boreal Forests/Taiga,Pinus,26,1,1,1
+Boreal Forests/Taiga,Pinus,27,1,1,1
+Boreal Forests/Taiga,Pinus,28,2,1,2
+Boreal Forests/Taiga,Pinus,29,2,1,2
+Boreal Forests/Taiga,Pinus,30,7,1,3
+Boreal Forests/Taiga,Pinus,31,9,2,3
+Boreal Forests/Taiga,Pinus,32,3,1,3
+Boreal Forests/Taiga,Pinus,34,2,2,1
+Boreal Forests/Taiga,Pinus,35,1,1,1
+Boreal Forests/Taiga,Pinus,36,2,2,2
+Boreal Forests/Taiga,Pinus,37,5,1,2
+Boreal Forests/Taiga,Pinus,38,3,2,3
+Boreal Forests/Taiga,Pinus,39,7,2,5
+Boreal Forests/Taiga,Pinus,40,9,2,6
+Boreal Forests/Taiga,Pinus,41,2,1,1
+Boreal Forests/Taiga,Pinus,46,6,1,2
+Boreal Forests/Taiga,Pinus,47,7,2,2
+Boreal Forests/Taiga,Pinus,48,2,1,1
+Boreal Forests/Taiga,Pinus,49,2,1,1
+Boreal Forests/Taiga,Pinus,50,4,2,3
+Boreal Forests/Taiga,Pinus,53,1,1,1
+Boreal Forests/Taiga,Pinus,55,2,1,1
+Boreal Forests/Taiga,Pinus,57,3,1,1
+Boreal Forests/Taiga,Pinus,58,12,1,2
+Boreal Forests/Taiga,Pinus,60,2,1,1
+Boreal Forests/Taiga,Pinus,72,1,1,1
+Boreal Forests/Taiga,Pinus,75,1,1,1
+Boreal Forests/Taiga,Pinus,84,1,1,1
+Boreal Forests/Taiga,Populus,9,1,1,1
+Deserts & Xeric Shrublands,Acacia,4,1,1,1
+Deserts & Xeric Shrublands,Acacia,8,1,1,1
+Deserts & Xeric Shrublands,Eucalyptus,3,8,8,1
+Deserts & Xeric Shrublands,Eucalyptus,4,1,1,1
+Deserts & Xeric Shrublands,Eucalyptus,5,1,1,1
+Deserts & Xeric Shrublands,Eucalyptus,6,1,1,1
+Deserts & Xeric Shrublands,Eucalyptus,7,9,9,2
+Deserts & Xeric Shrublands,Eucalyptus,8,2,2,2
+Deserts & Xeric Shrublands,Eucalyptus,9,1,1,1
+Deserts & Xeric Shrublands,Eucalyptus,10,8,8,1
+Deserts & Xeric Shrublands,Pinus,15,1,1,1
+Deserts & Xeric Shrublands,Pinus,22,1,1,1
+Deserts & Xeric Shrublands,Pinus,23,1,1,1
+Deserts & Xeric Shrublands,Pinus,33,1,1,1
+Deserts & Xeric Shrublands,Pinus,40,1,1,1
+Deserts & Xeric Shrublands,Pinus,60,1,1,1
+Deserts & Xeric Shrublands,Pinus,70,1,1,1
+Deserts & Xeric Shrublands,Populus,2,1,1,1
+Deserts & Xeric Shrublands,Populus,3,1,1,1
+Deserts & Xeric Shrublands,Populus,4,1,1,1
+Deserts & Xeric Shrublands,Populus,5,1,1,1
+Deserts & Xeric Shrublands,Populus,6,2,2,2
+Deserts & Xeric Shrublands,Populus,7,1,1,1
+Deserts & Xeric Shrublands,Populus,18,1,1,1
+Deserts & Xeric Shrublands,Populus,20,3,3,2
+Deserts & Xeric Shrublands,Populus,22,4,4,1
+Deserts & Xeric Shrublands,Populus,23,1,1,1
+Deserts & Xeric Shrublands,Populus,24,1,1,1
+Deserts & Xeric Shrublands,Populus,28,2,2,2
+Deserts & Xeric Shrublands,Populus,35,1,1,1
+Deserts & Xeric Shrublands,Populus,41,1,1,1
+Flooded Grasslands & Savannas,Pinus,13,2,2,2
+Flooded Grasslands & Savannas,Pinus,21,4,4,2
+Flooded Grasslands & Savannas,Populus,15,1,1,1
+Mangroves,Acacia,5,2,2,1
+Mangroves,Acacia,6,2,2,1
+Mangroves,Acacia,7,2,2,1
+Mangroves,Acacia,13,4,4,1
+"Mediterranean Forests, Woodlands & Scrub",Eucalyptus,3,1,1,1
+"Mediterranean Forests, Woodlands & Scrub",Eucalyptus,4,1,1,1
+"Mediterranean Forests, Woodlands & Scrub",Eucalyptus,5,2,2,2
+"Mediterranean Forests, Woodlands & Scrub",Eucalyptus,6,7,7,3
+"Mediterranean Forests, Woodlands & Scrub",Eucalyptus,7,3,3,3
+"Mediterranean Forests, Woodlands & Scrub",Eucalyptus,9,2,2,2
+"Mediterranean Forests, Woodlands & Scrub",Pinus,6,5,5,1
+"Mediterranean Forests, Woodlands & Scrub",Pinus,7,14,8,2
+"Mediterranean Forests, Woodlands & Scrub",Pinus,8,26,16,2
+"Mediterranean Forests, Woodlands & Scrub",Pinus,9,30,17,2
+"Mediterranean Forests, Woodlands & Scrub",Pinus,10,30,17,2
+"Mediterranean Forests, Woodlands & Scrub",Pinus,11,37,24,3
+"Mediterranean Forests, Woodlands & Scrub",Pinus,12,28,16,2
+"Mediterranean Forests, Woodlands & Scrub",Pinus,13,7,7,1
+"Mediterranean Forests, Woodlands & Scrub",Pinus,15,7,7,1
+"Mediterranean Forests, Woodlands & Scrub",Pinus,30,1,1,1
+"Mediterranean Forests, Woodlands & Scrub",Pinus,35,1,1,1
+"Mediterranean Forests, Woodlands & Scrub",Pinus,50,2,2,2
+"Mediterranean Forests, Woodlands & Scrub",Pseudotsuga,11,1,1,1
+"Mediterranean Forests, Woodlands & Scrub",Pseudotsuga,15,6,6,1
+"Mediterranean Forests, Woodlands & Scrub",Pseudotsuga,17,7,7,1
+"Mediterranean Forests, Woodlands & Scrub",Pseudotsuga,19,15,8,2
+"Mediterranean Forests, Woodlands & Scrub",Pseudotsuga,23,7,7,1
+"Mediterranean Forests, Woodlands & Scrub",Pseudotsuga,25,6,6,1
+"Mediterranean Forests, Woodlands & Scrub",Pseudotsuga,27,7,7,1
+"Mediterranean Forests, Woodlands & Scrub",Pseudotsuga,28,1,1,1
+"Mediterranean Forests, Woodlands & Scrub",Pseudotsuga,30,7,7,1
+"Mediterranean Forests, Woodlands & Scrub",Pseudotsuga,32,6,6,1
+"Mediterranean Forests, Woodlands & Scrub",Pseudotsuga,40,6,6,1
+"Mediterranean Forests, Woodlands & Scrub",Pseudotsuga,54,1,1,1
+Montane Grasslands & Shrublands,Eucalyptus,4,3,3,1
+Montane Grasslands & Shrublands,Eucalyptus,5,3,3,1
+Montane Grasslands & Shrublands,Eucalyptus,7,2,2,1
+Montane Grasslands & Shrublands,Eucalyptus,9,1,1,1
+Montane Grasslands & Shrublands,Larix,12,3,3,1
+Montane Grasslands & Shrublands,Larix,13,1,1,1
+Montane Grasslands & Shrublands,Larix,14,3,3,1
+Montane Grasslands & Shrublands,Larix,15,2,2,1
+Montane Grasslands & Shrublands,Larix,17,3,3,1
+Montane Grasslands & Shrublands,Larix,20,2,2,1
+Montane Grasslands & Shrublands,Larix,21,4,4,1
+Montane Grasslands & Shrublands,Larix,22,9,9,2
+Montane Grasslands & Shrublands,Larix,23,7,7,1
+Montane Grasslands & Shrublands,Larix,24,5,5,1
+Montane Grasslands & Shrublands,Larix,25,4,4,1
+Montane Grasslands & Shrublands,Larix,26,1,1,1
+Montane Grasslands & Shrublands,Larix,27,7,7,1
+Montane Grasslands & Shrublands,Larix,28,7,7,1
+Montane Grasslands & Shrublands,Larix,29,2,2,1
+Montane Grasslands & Shrublands,Larix,30,7,7,1
+Montane Grasslands & Shrublands,Larix,31,5,5,1
+Montane Grasslands & Shrublands,Larix,32,2,2,1
+Montane Grasslands & Shrublands,Larix,33,5,5,1
+Montane Grasslands & Shrublands,Larix,36,1,1,1
+Montane Grasslands & Shrublands,Larix,46,1,1,1
+Montane Grasslands & Shrublands,Picea,48,1,1,1
+Montane Grasslands & Shrublands,Pinus,5,1,1,1
+Montane Grasslands & Shrublands,Pinus,17,1,1,1
+Montane Grasslands & Shrublands,Pinus,32,1,1,1
+Montane Grasslands & Shrublands,Pinus,36,1,1,1
+Montane Grasslands & Shrublands,Pinus,42,1,1,1
+Montane Grasslands & Shrublands,Populus,40,1,1,1
+Temperate Broadleaf & Mixed Forests,Acacia,5,3,1,1
+Temperate Broadleaf & Mixed Forests,Acacia,10,1,1,1
+Temperate Broadleaf & Mixed Forests,Acacia,11,1,1,1
+Temperate Broadleaf & Mixed Forests,Acacia,15,1,1,1
+Temperate Broadleaf & Mixed Forests,Cryptomeria,4,1,1,1
+Temperate Broadleaf & Mixed Forests,Cryptomeria,5,2,2,2
+Temperate Broadleaf & Mixed Forests,Cryptomeria,9,2,1,2
+Temperate Broadleaf & Mixed Forests,Cryptomeria,10,9,2,7
+Temperate Broadleaf & Mixed Forests,Cryptomeria,11,4,1,3
+Temperate Broadleaf & Mixed Forests,Cryptomeria,12,3,1,2
+Temperate Broadleaf & Mixed Forests,Cryptomeria,13,6,1,3
+Temperate Broadleaf & Mixed Forests,Cryptomeria,14,4,2,3
+Temperate Broadleaf & Mixed Forests,Cryptomeria,15,3,1,3
+Temperate Broadleaf & Mixed Forests,Cryptomeria,16,2,1,2
+Temperate Broadleaf & Mixed Forests,Cryptomeria,17,3,2,3
+Temperate Broadleaf & Mixed Forests,Cryptomeria,18,2,2,2
+Temperate Broadleaf & Mixed Forests,Cryptomeria,19,1,1,1
+Temperate Broadleaf & Mixed Forests,Cryptomeria,20,2,1,2
+Temperate Broadleaf & Mixed Forests,Cryptomeria,21,3,1,3
+Temperate Broadleaf & Mixed Forests,Cryptomeria,22,4,2,3
+Temperate Broadleaf & Mixed Forests,Cryptomeria,23,3,2,2
+Temperate Broadleaf & Mixed Forests,Cryptomeria,24,2,1,2
+Temperate Broadleaf & Mixed Forests,Cryptomeria,25,2,1,2
+Temperate Broadleaf & Mixed Forests,Cryptomeria,26,1,1,1
+Temperate Broadleaf & Mixed Forests,Cryptomeria,28,8,2,5
+Temperate Broadleaf & Mixed Forests,Cryptomeria,29,2,1,2
+Temperate Broadleaf & Mixed Forests,Cryptomeria,31,3,1,3
+Temperate Broadleaf & Mixed Forests,Cryptomeria,34,7,1,4
+Temperate Broadleaf & Mixed Forests,Cryptomeria,35,2,1,2
+Temperate Broadleaf & Mixed Forests,Cryptomeria,36,1,1,1
+Temperate Broadleaf & Mixed Forests,Cryptomeria,38,2,1,1
+Temperate Broadleaf & Mixed Forests,Cryptomeria,39,1,1,1
+Temperate Broadleaf & Mixed Forests,Cryptomeria,45,3,1,3
+Temperate Broadleaf & Mixed Forests,Cryptomeria,48,2,1,1
+Temperate Broadleaf & Mixed Forests,Cryptomeria,49,2,1,2
+Temperate Broadleaf & Mixed Forests,Cryptomeria,51,1,1,1
+Temperate Broadleaf & Mixed Forests,Cryptomeria,53,1,1,1
+Temperate Broadleaf & Mixed Forests,Cryptomeria,55,3,1,1
+Temperate Broadleaf & Mixed Forests,Cryptomeria,59,3,1,1
+Temperate Broadleaf & Mixed Forests,Cryptomeria,60,2,2,2
+Temperate Broadleaf & Mixed Forests,Cunninghamia,3,1,1,1
+Temperate Broadleaf & Mixed Forests,Cunninghamia,4,1,1,1
+Temperate Broadleaf & Mixed Forests,Cunninghamia,5,3,3,2
+Temperate Broadleaf & Mixed Forests,Cunninghamia,6,1,1,1
+Temperate Broadleaf & Mixed Forests,Cunninghamia,7,3,3,3
+Temperate Broadleaf & Mixed Forests,Cunninghamia,8,1,1,1
+Temperate Broadleaf & Mixed Forests,Cunninghamia,9,1,1,1
+Temperate Broadleaf & Mixed Forests,Cunninghamia,10,4,4,3
+Temperate Broadleaf & Mixed Forests,Cunninghamia,11,8,8,3
+Temperate Broadleaf & Mixed Forests,Cunninghamia,12,1,1,1
+Temperate Broadleaf & Mixed Forests,Cunninghamia,13,3,3,3
+Temperate Broadleaf & Mixed Forests,Cunninghamia,14,3,3,2
+Temperate Broadleaf & Mixed Forests,Cunninghamia,15,5,5,4
+Temperate Broadleaf & Mixed Forests,Cunninghamia,16,2,2,1
+Temperate Broadleaf & Mixed Forests,Cunninghamia,17,3,3,2
+Temperate Broadleaf & Mixed Forests,Cunninghamia,19,1,1,1
+Temperate Broadleaf & Mixed Forests,Cunninghamia,20,3,3,3
+Temperate Broadleaf & Mixed Forests,Cunninghamia,21,2,2,2
+Temperate Broadleaf & Mixed Forests,Cunninghamia,22,3,3,2
+Temperate Broadleaf & Mixed Forests,Cunninghamia,24,1,1,1
+Temperate Broadleaf & Mixed Forests,Cunninghamia,25,1,1,1
+Temperate Broadleaf & Mixed Forests,Cunninghamia,35,1,1,1
+Temperate Broadleaf & Mixed Forests,Cunninghamia,36,1,1,1
+Temperate Broadleaf & Mixed Forests,Cunninghamia,45,1,1,1
+Temperate Broadleaf & Mixed Forests,Cunninghamia,48,1,1,1
+Temperate Broadleaf & Mixed Forests,Cunninghamia,50,1,1,1
+Temperate Broadleaf & Mixed Forests,Eucalyptus,2,2,2,2
+Temperate Broadleaf & Mixed Forests,Eucalyptus,3,1,1,1
+Temperate Broadleaf & Mixed Forests,Eucalyptus,4,1,1,1
+Temperate Broadleaf & Mixed Forests,Eucalyptus,5,3,3,2
+Temperate Broadleaf & Mixed Forests,Eucalyptus,6,16,16,4
+Temperate Broadleaf & Mixed Forests,Eucalyptus,7,2,2,2
+Temperate Broadleaf & Mixed Forests,Eucalyptus,8,12,12,4
+Temperate Broadleaf & Mixed Forests,Eucalyptus,9,1,1,1
+Temperate Broadleaf & Mixed Forests,Eucalyptus,10,4,4,3
+Temperate Broadleaf & Mixed Forests,Eucalyptus,11,6,6,2
+Temperate Broadleaf & Mixed Forests,Eucalyptus,12,1,1,1
+Temperate Broadleaf & Mixed Forests,Eucalyptus,15,3,3,2
+Temperate Broadleaf & Mixed Forests,Eucalyptus,19,1,1,1
+Temperate Broadleaf & Mixed Forests,Eucalyptus,27,2,2,2
+Temperate Broadleaf & Mixed Forests,Eucalyptus,30,1,1,1
+Temperate Broadleaf & Mixed Forests,Eucalyptus,33,1,1,1
+Temperate Broadleaf & Mixed Forests,Larix,8,1,1,1
+Temperate Broadleaf & Mixed Forests,Larix,9,2,2,2
+Temperate Broadleaf & Mixed Forests,Larix,10,3,2,3
+Temperate Broadleaf & Mixed Forests,Larix,11,5,1,1
+Temperate Broadleaf & Mixed Forests,Larix,13,2,1,2
+Temperate Broadleaf & Mixed Forests,Larix,16,3,3,3
+Temperate Broadleaf & Mixed Forests,Larix,17,1,1,1
+Temperate Broadleaf & Mixed Forests,Larix,18,2,1,2
+Temperate Broadleaf & Mixed Forests,Larix,19,1,1,1
+Temperate Broadleaf & Mixed Forests,Larix,20,6,2,4
+Temperate Broadleaf & Mixed Forests,Larix,21,3,2,3
+Temperate Broadleaf & Mixed Forests,Larix,22,5,2,4
+Temperate Broadleaf & Mixed Forests,Larix,23,2,2,2
+Temperate Broadleaf & Mixed Forests,Larix,24,13,7,4
+Temperate Broadleaf & Mixed Forests,Larix,25,2,2,2
+Temperate Broadleaf & Mixed Forests,Larix,26,2,2,1
+Temperate Broadleaf & Mixed Forests,Larix,27,1,1,1
+Temperate Broadleaf & Mixed Forests,Larix,28,4,4,3
+Temperate Broadleaf & Mixed Forests,Larix,29,2,2,2
+Temperate Broadleaf & Mixed Forests,Larix,30,1,1,1
+Temperate Broadleaf & Mixed Forests,Larix,31,6,5,3
+Temperate Broadleaf & Mixed Forests,Larix,33,2,2,2
+Temperate Broadleaf & Mixed Forests,Larix,35,3,3,2
+Temperate Broadleaf & Mixed Forests,Larix,36,3,3,2
+Temperate Broadleaf & Mixed Forests,Larix,39,1,1,1
+Temperate Broadleaf & Mixed Forests,Larix,40,1,1,1
+Temperate Broadleaf & Mixed Forests,Larix,43,2,1,1
+Temperate Broadleaf & Mixed Forests,Larix,44,2,1,1
+Temperate Broadleaf & Mixed Forests,Larix,45,6,1,1
+Temperate Broadleaf & Mixed Forests,Larix,46,2,2,2
+Temperate Broadleaf & Mixed Forests,Larix,47,5,1,1
+Temperate Broadleaf & Mixed Forests,Larix,48,4,1,1
+Temperate Broadleaf & Mixed Forests,Larix,50,3,2,3
+Temperate Broadleaf & Mixed Forests,Larix,51,3,1,2
+Temperate Broadleaf & Mixed Forests,Larix,52,4,1,1
+Temperate Broadleaf & Mixed Forests,Larix,53,1,1,1
+Temperate Broadleaf & Mixed Forests,Larix,55,1,1,1
+Temperate Broadleaf & Mixed Forests,Larix,56,1,1,1
+Temperate Broadleaf & Mixed Forests,Larix,60,2,2,2
+Temperate Broadleaf & Mixed Forests,Larix,63,1,1,1
+Temperate Broadleaf & Mixed Forests,Larix,70,1,1,1
+Temperate Broadleaf & Mixed Forests,Larix,80,1,1,1
+Temperate Broadleaf & Mixed Forests,Larix,90,1,1,1
+Temperate Broadleaf & Mixed Forests,Picea,2,4,4,2
+Temperate Broadleaf & Mixed Forests,Picea,3,6,6,2
+Temperate Broadleaf & Mixed Forests,Picea,4,2,2,1
+Temperate Broadleaf & Mixed Forests,Picea,6,7,7,3
+Temperate Broadleaf & Mixed Forests,Picea,7,2,2,1
+Temperate Broadleaf & Mixed Forests,Picea,9,3,3,2
+Temperate Broadleaf & Mixed Forests,Picea,10,12,10,4
+Temperate Broadleaf & Mixed Forests,Picea,11,4,4,2
+Temperate Broadleaf & Mixed Forests,Picea,12,10,5,4
+Temperate Broadleaf & Mixed Forests,Picea,13,4,4,2
+Temperate Broadleaf & Mixed Forests,Picea,14,8,8,4
+Temperate Broadleaf & Mixed Forests,Picea,15,4,4,2
+Temperate Broadleaf & Mixed Forests,Picea,16,7,7,4
+Temperate Broadleaf & Mixed Forests,Picea,17,1,1,1
+Temperate Broadleaf & Mixed Forests,Picea,18,8,7,4
+Temperate Broadleaf & Mixed Forests,Picea,19,5,5,2
+Temperate Broadleaf & Mixed Forests,Picea,20,9,8,5
+Temperate Broadleaf & Mixed Forests,Picea,21,5,5,2
+Temperate Broadleaf & Mixed Forests,Picea,22,7,7,4
+Temperate Broadleaf & Mixed Forests,Picea,23,4,4,1
+Temperate Broadleaf & Mixed Forests,Picea,24,4,4,1
+Temperate Broadleaf & Mixed Forests,Picea,25,5,5,2
+Temperate Broadleaf & Mixed Forests,Picea,27,3,1,1
+Temperate Broadleaf & Mixed Forests,Picea,28,7,5,3
+Temperate Broadleaf & Mixed Forests,Picea,29,4,4,1
+Temperate Broadleaf & Mixed Forests,Picea,30,2,2,2
+Temperate Broadleaf & Mixed Forests,Picea,31,3,3,2
+Temperate Broadleaf & Mixed Forests,Picea,32,2,2,2
+Temperate Broadleaf & Mixed Forests,Picea,33,1,1,1
+Temperate Broadleaf & Mixed Forests,Picea,35,5,5,2
+Temperate Broadleaf & Mixed Forests,Picea,37,1,1,1
+Temperate Broadleaf & Mixed Forests,Picea,39,1,1,1
+Temperate Broadleaf & Mixed Forests,Picea,43,1,1,1
+Temperate Broadleaf & Mixed Forests,Picea,44,4,4,1
+Temperate Broadleaf & Mixed Forests,Picea,45,1,1,1
+Temperate Broadleaf & Mixed Forests,Picea,47,3,2,2
+Temperate Broadleaf & Mixed Forests,Picea,49,1,1,1
+Temperate Broadleaf & Mixed Forests,Picea,50,2,1,1
+Temperate Broadleaf & Mixed Forests,Picea,52,1,1,1
+Temperate Broadleaf & Mixed Forests,Picea,53,1,1,1
+Temperate Broadleaf & Mixed Forests,Picea,55,2,2,2
+Temperate Broadleaf & Mixed Forests,Picea,59,5,5,2
+Temperate Broadleaf & Mixed Forests,Picea,60,1,1,1
+Temperate Broadleaf & Mixed Forests,Picea,70,1,1,1
+Temperate Broadleaf & Mixed Forests,Picea,72,1,1,1
+Temperate Broadleaf & Mixed Forests,Picea,74,1,1,1
+Temperate Broadleaf & Mixed Forests,Picea,80,1,1,1
+Temperate Broadleaf & Mixed Forests,Picea,85,2,1,1
+Temperate Broadleaf & Mixed Forests,Picea,90,1,1,1
+Temperate Broadleaf & Mixed Forests,Pinus,4,1,1,1
+Temperate Broadleaf & Mixed Forests,Pinus,5,8,7,5
+Temperate Broadleaf & Mixed Forests,Pinus,6,6,6,4
+Temperate Broadleaf & Mixed Forests,Pinus,7,13,9,9
+Temperate Broadleaf & Mixed Forests,Pinus,8,10,9,7
+Temperate Broadleaf & Mixed Forests,Pinus,9,28,25,8
+Temperate Broadleaf & Mixed Forests,Pinus,10,26,9,14
+Temperate Broadleaf & Mixed Forests,Pinus,11,17,15,10
+Temperate Broadleaf & Mixed Forests,Pinus,12,24,11,13
+Temperate Broadleaf & Mixed Forests,Pinus,13,29,21,10
+Temperate Broadleaf & Mixed Forests,Pinus,14,21,15,13
+Temperate Broadleaf & Mixed Forests,Pinus,15,36,19,19
+Temperate Broadleaf & Mixed Forests,Pinus,16,27,23,14
+Temperate Broadleaf & Mixed Forests,Pinus,17,31,28,20
+Temperate Broadleaf & Mixed Forests,Pinus,18,36,30,21
+Temperate Broadleaf & Mixed Forests,Pinus,19,30,27,16
+Temperate Broadleaf & Mixed Forests,Pinus,20,61,32,27
+Temperate Broadleaf & Mixed Forests,Pinus,21,33,24,15
+Temperate Broadleaf & Mixed Forests,Pinus,22,21,18,9
+Temperate Broadleaf & Mixed Forests,Pinus,23,15,15,8
+Temperate Broadleaf & Mixed Forests,Pinus,24,14,13,8
+Temperate Broadleaf & Mixed Forests,Pinus,25,12,8,11
+Temperate Broadleaf & Mixed Forests,Pinus,26,7,7,5
+Temperate Broadleaf & Mixed Forests,Pinus,27,4,4,4
+Temperate Broadleaf & Mixed Forests,Pinus,28,11,10,7
+Temperate Broadleaf & Mixed Forests,Pinus,29,12,11,7
+Temperate Broadleaf & Mixed Forests,Pinus,30,45,12,16
+Temperate Broadleaf & Mixed Forests,Pinus,31,5,2,3
+Temperate Broadleaf & Mixed Forests,Pinus,32,1,1,1
+Temperate Broadleaf & Mixed Forests,Pinus,33,8,7,6
+Temperate Broadleaf & Mixed Forests,Pinus,34,8,8,3
+Temperate Broadleaf & Mixed Forests,Pinus,35,11,4,9
+Temperate Broadleaf & Mixed Forests,Pinus,36,1,1,1
+Temperate Broadleaf & Mixed Forests,Pinus,37,1,1,1
+Temperate Broadleaf & Mixed Forests,Pinus,38,4,4,4
+Temperate Broadleaf & Mixed Forests,Pinus,39,4,1,3
+Temperate Broadleaf & Mixed Forests,Pinus,40,32,3,12
+Temperate Broadleaf & Mixed Forests,Pinus,41,4,2,3
+Temperate Broadleaf & Mixed Forests,Pinus,42,5,4,5
+Temperate Broadleaf & Mixed Forests,Pinus,43,5,5,2
+Temperate Broadleaf & Mixed Forests,Pinus,44,2,2,2
+Temperate Broadleaf & Mixed Forests,Pinus,45,3,1,3
+Temperate Broadleaf & Mixed Forests,Pinus,46,2,1,2
+Temperate Broadleaf & Mixed Forests,Pinus,47,4,4,3
+Temperate Broadleaf & Mixed Forests,Pinus,48,2,2,2
+Temperate Broadleaf & Mixed Forests,Pinus,49,1,1,1
+Temperate Broadleaf & Mixed Forests,Pinus,50,14,6,5
+Temperate Broadleaf & Mixed Forests,Pinus,51,1,1,1
+Temperate Broadleaf & Mixed Forests,Pinus,52,1,1,1
+Temperate Broadleaf & Mixed Forests,Pinus,53,2,1,2
+Temperate Broadleaf & Mixed Forests,Pinus,55,3,2,3
+Temperate Broadleaf & Mixed Forests,Pinus,56,2,2,2
+Temperate Broadleaf & Mixed Forests,Pinus,57,2,2,2
+Temperate Broadleaf & Mixed Forests,Pinus,60,18,3,4
+Temperate Broadleaf & Mixed Forests,Pinus,61,1,1,1
+Temperate Broadleaf & Mixed Forests,Pinus,62,3,2,3
+Temperate Broadleaf & Mixed Forests,Pinus,63,2,2,1
+Temperate Broadleaf & Mixed Forests,Pinus,64,2,2,2
+Temperate Broadleaf & Mixed Forests,Pinus,65,1,1,1
+Temperate Broadleaf & Mixed Forests,Pinus,66,2,1,2
+Temperate Broadleaf & Mixed Forests,Pinus,67,1,1,1
+Temperate Broadleaf & Mixed Forests,Pinus,68,2,2,2
+Temperate Broadleaf & Mixed Forests,Pinus,69,2,2,2
+Temperate Broadleaf & Mixed Forests,Pinus,70,5,3,4
+Temperate Broadleaf & Mixed Forests,Pinus,72,2,2,2
+Temperate Broadleaf & Mixed Forests,Pinus,73,1,1,1
+Temperate Broadleaf & Mixed Forests,Pinus,74,3,3,3
+Temperate Broadleaf & Mixed Forests,Pinus,75,2,2,2
+Temperate Broadleaf & Mixed Forests,Pinus,77,1,1,1
+Temperate Broadleaf & Mixed Forests,Pinus,79,1,1,1
+Temperate Broadleaf & Mixed Forests,Pinus,80,19,1,2
+Temperate Broadleaf & Mixed Forests,Pinus,82,3,3,2
+Temperate Broadleaf & Mixed Forests,Pinus,84,1,1,1
+Temperate Broadleaf & Mixed Forests,Pinus,86,1,1,1
+Temperate Broadleaf & Mixed Forests,Pinus,87,2,2,2
+Temperate Broadleaf & Mixed Forests,Pinus,88,1,1,1
+Temperate Broadleaf & Mixed Forests,Pinus,90,3,1,2
+Temperate Broadleaf & Mixed Forests,Pinus,91,1,1,1
+Temperate Broadleaf & Mixed Forests,Pinus,94,1,1,1
+Temperate Broadleaf & Mixed Forests,Pinus,98,2,2,1
+Temperate Broadleaf & Mixed Forests,Populus,3,7,2,2
+Temperate Broadleaf & Mixed Forests,Populus,4,10,10,3
+Temperate Broadleaf & Mixed Forests,Populus,5,10,10,5
+Temperate Broadleaf & Mixed Forests,Populus,6,10,9,5
+Temperate Broadleaf & Mixed Forests,Populus,7,3,3,2
+Temperate Broadleaf & Mixed Forests,Populus,8,9,9,9
+Temperate Broadleaf & Mixed Forests,Populus,9,2,2,2
+Temperate Broadleaf & Mixed Forests,Populus,10,2,2,2
+Temperate Broadleaf & Mixed Forests,Populus,11,4,4,4
+Temperate Broadleaf & Mixed Forests,Populus,12,1,1,1
+Temperate Broadleaf & Mixed Forests,Populus,13,4,4,2
+Temperate Broadleaf & Mixed Forests,Populus,14,3,3,3
+Temperate Broadleaf & Mixed Forests,Populus,15,7,7,6
+Temperate Broadleaf & Mixed Forests,Populus,16,4,4,4
+Temperate Broadleaf & Mixed Forests,Populus,18,1,1,1
+Temperate Broadleaf & Mixed Forests,Populus,19,1,1,1
+Temperate Broadleaf & Mixed Forests,Populus,20,2,2,2
+Temperate Broadleaf & Mixed Forests,Populus,21,1,1,1
+Temperate Broadleaf & Mixed Forests,Populus,22,6,6,1
+Temperate Broadleaf & Mixed Forests,Populus,23,2,2,2
+Temperate Broadleaf & Mixed Forests,Populus,24,1,1,1
+Temperate Broadleaf & Mixed Forests,Populus,25,1,1,1
+Temperate Broadleaf & Mixed Forests,Populus,26,2,2,2
+Temperate Broadleaf & Mixed Forests,Populus,27,1,1,1
+Temperate Broadleaf & Mixed Forests,Populus,28,1,1,1
+Temperate Broadleaf & Mixed Forests,Populus,29,1,1,1
+Temperate Broadleaf & Mixed Forests,Pseudotsuga,9,5,5,2
+Temperate Broadleaf & Mixed Forests,Pseudotsuga,14,1,1,1
+Temperate Broadleaf & Mixed Forests,Pseudotsuga,16,1,1,1
+Temperate Broadleaf & Mixed Forests,Pseudotsuga,18,1,1,1
+Temperate Broadleaf & Mixed Forests,Pseudotsuga,19,2,2,1
+Temperate Broadleaf & Mixed Forests,Pseudotsuga,20,1,1,1
+Temperate Broadleaf & Mixed Forests,Pseudotsuga,21,2,1,2
+Temperate Broadleaf & Mixed Forests,Pseudotsuga,22,2,1,1
+Temperate Broadleaf & Mixed Forests,Pseudotsuga,24,1,1,1
+Temperate Broadleaf & Mixed Forests,Pseudotsuga,25,1,1,1
+Temperate Broadleaf & Mixed Forests,Pseudotsuga,26,1,1,1
+Temperate Broadleaf & Mixed Forests,Pseudotsuga,28,3,3,2
+Temperate Broadleaf & Mixed Forests,Pseudotsuga,29,3,3,2
+Temperate Broadleaf & Mixed Forests,Pseudotsuga,36,1,1,1
+Temperate Broadleaf & Mixed Forests,Pseudotsuga,39,2,2,1
+Temperate Broadleaf & Mixed Forests,Pseudotsuga,45,1,1,1
+Temperate Broadleaf & Mixed Forests,Pseudotsuga,47,2,1,2
+Temperate Broadleaf & Mixed Forests,Pseudotsuga,70,1,1,1
+Temperate Conifer Forests,Cryptomeria,29,1,1,1
+Temperate Conifer Forests,Cunninghamia,30,1,1,1
+Temperate Conifer Forests,Cunninghamia,41,1,1,1
+Temperate Conifer Forests,Cunninghamia,59,1,1,1
+Temperate Conifer Forests,Cunninghamia,61,1,1,1
+Temperate Conifer Forests,Larix,11,2,1,1
+Temperate Conifer Forests,Larix,21,1,1,1
+Temperate Conifer Forests,Larix,37,5,1,1
+Temperate Conifer Forests,Picea,4,3,3,2
+Temperate Conifer Forests,Picea,5,4,4,2
+Temperate Conifer Forests,Picea,6,4,4,2
+Temperate Conifer Forests,Picea,7,2,2,1
+Temperate Conifer Forests,Picea,8,8,8,3
+Temperate Conifer Forests,Picea,9,6,6,2
+Temperate Conifer Forests,Picea,10,8,8,3
+Temperate Conifer Forests,Picea,11,3,3,2
+Temperate Conifer Forests,Picea,12,4,4,2
+Temperate Conifer Forests,Picea,13,2,2,1
+Temperate Conifer Forests,Picea,15,5,5,3
+Temperate Conifer Forests,Picea,20,8,8,6
+Temperate Conifer Forests,Picea,22,2,2,1
+Temperate Conifer Forests,Picea,23,4,4,1
+Temperate Conifer Forests,Picea,25,2,2,2
+Temperate Conifer Forests,Picea,28,3,3,2
+Temperate Conifer Forests,Picea,30,2,2,2
+Temperate Conifer Forests,Picea,35,1,1,1
+Temperate Conifer Forests,Picea,40,2,2,2
+Temperate Conifer Forests,Picea,41,1,1,1
+Temperate Conifer Forests,Picea,44,1,1,1
+Temperate Conifer Forests,Picea,45,2,2,2
+Temperate Conifer Forests,Picea,46,2,1,1
+Temperate Conifer Forests,Picea,47,1,1,1
+Temperate Conifer Forests,Pinus,3,8,4,1
+Temperate Conifer Forests,Pinus,6,8,4,1
+Temperate Conifer Forests,Pinus,10,3,3,1
+Temperate Conifer Forests,Pinus,11,3,3,1
+Temperate Conifer Forests,Pinus,12,3,3,1
+Temperate Conifer Forests,Pinus,13,3,3,1
+Temperate Conifer Forests,Pinus,14,3,3,1
+Temperate Conifer Forests,Pinus,15,3,3,1
+Temperate Conifer Forests,Pinus,16,3,3,1
+Temperate Conifer Forests,Pinus,17,3,3,1
+Temperate Conifer Forests,Pinus,18,3,3,1
+Temperate Conifer Forests,Pinus,20,8,8,2
+Temperate Conifer Forests,Pinus,21,3,3,1
+Temperate Conifer Forests,Pinus,22,3,3,1
+Temperate Conifer Forests,Pinus,23,3,3,1
+Temperate Conifer Forests,Pinus,24,3,3,1
+Temperate Conifer Forests,Pinus,25,5,5,1
+Temperate Conifer Forests,Pinus,27,1,1,1
+Temperate Conifer Forests,Pinus,30,5,5,1
+Temperate Conifer Forests,Pinus,35,6,6,2
+Temperate Conifer Forests,Pinus,37,5,1,1
+Temperate Conifer Forests,Pinus,40,5,5,1
+Temperate Conifer Forests,Pinus,45,5,5,1
+Temperate Conifer Forests,Pinus,50,5,5,1
+Temperate Conifer Forests,Pinus,55,5,5,1
+Temperate Conifer Forests,Pinus,60,5,5,1
+Temperate Conifer Forests,Pinus,70,1,1,1
+Temperate Conifer Forests,Populus,5,1,1,1
+Temperate Conifer Forests,Populus,7,1,1,1
+Temperate Conifer Forests,Populus,9,1,1,1
+Temperate Conifer Forests,Populus,12,4,4,2
+Temperate Conifer Forests,Populus,30,3,3,1
+Temperate Conifer Forests,Populus,33,1,1,1
+Temperate Conifer Forests,Populus,35,1,1,1
+Temperate Conifer Forests,Populus,47,1,1,1
+Temperate Conifer Forests,Pseudotsuga,5,14,14,4
+Temperate Conifer Forests,Pseudotsuga,20,1,1,1
+Temperate Conifer Forests,Pseudotsuga,23,2,2,2
+Temperate Conifer Forests,Pseudotsuga,24,8,5,2
+Temperate Conifer Forests,Pseudotsuga,25,4,4,1
+Temperate Conifer Forests,Pseudotsuga,26,6,6,2
+Temperate Conifer Forests,Pseudotsuga,27,6,6,2
+Temperate Conifer Forests,Pseudotsuga,29,2,2,1
+Temperate Conifer Forests,Pseudotsuga,30,5,5,2
+Temperate Conifer Forests,Pseudotsuga,33,10,7,3
+Temperate Conifer Forests,Pseudotsuga,36,4,4,1
+Temperate Conifer Forests,Pseudotsuga,39,4,4,1
+Temperate Conifer Forests,Pseudotsuga,40,1,1,1
+Temperate Conifer Forests,Pseudotsuga,42,9,6,3
+Temperate Conifer Forests,Pseudotsuga,48,4,4,1
+Temperate Conifer Forests,Pseudotsuga,49,1,1,1
+Temperate Conifer Forests,Pseudotsuga,50,1,1,1
+Temperate Conifer Forests,Pseudotsuga,55,5,5,2
+Temperate Conifer Forests,Pseudotsuga,60,1,1,1
+"Temperate Grasslands, Savannas & Shrublands",Eucalyptus,10,4,4,1
+"Temperate Grasslands, Savannas & Shrublands",Pinus,2,9,9,2
+"Temperate Grasslands, Savannas & Shrublands",Pinus,3,13,13,3
+"Temperate Grasslands, Savannas & Shrublands",Pinus,4,8,8,5
+"Temperate Grasslands, Savannas & Shrublands",Pinus,5,18,12,11
+"Temperate Grasslands, Savannas & Shrublands",Pinus,6,15,14,10
+"Temperate Grasslands, Savannas & Shrublands",Pinus,7,17,11,13
+"Temperate Grasslands, Savannas & Shrublands",Pinus,8,17,15,12
+"Temperate Grasslands, Savannas & Shrublands",Pinus,9,9,9,7
+"Temperate Grasslands, Savannas & Shrublands",Pinus,10,50,26,24
+"Temperate Grasslands, Savannas & Shrublands",Pinus,11,20,19,12
+"Temperate Grasslands, Savannas & Shrublands",Pinus,12,20,17,14
+"Temperate Grasslands, Savannas & Shrublands",Pinus,13,25,20,10
+"Temperate Grasslands, Savannas & Shrublands",Pinus,14,16,9,11
+"Temperate Grasslands, Savannas & Shrublands",Pinus,15,20,7,14
+"Temperate Grasslands, Savannas & Shrublands",Pinus,16,8,4,6
+"Temperate Grasslands, Savannas & Shrublands",Pinus,17,8,5,7
+"Temperate Grasslands, Savannas & Shrublands",Pinus,18,7,4,6
+"Temperate Grasslands, Savannas & Shrublands",Pinus,19,6,4,4
+"Temperate Grasslands, Savannas & Shrublands",Pinus,20,34,5,14
+"Temperate Grasslands, Savannas & Shrublands",Pinus,21,18,5,9
+"Temperate Grasslands, Savannas & Shrublands",Pinus,22,18,4,7
+"Temperate Grasslands, Savannas & Shrublands",Pinus,23,11,5,6
+"Temperate Grasslands, Savannas & Shrublands",Pinus,24,5,1,3
+"Temperate Grasslands, Savannas & Shrublands",Pinus,25,30,4,15
+"Temperate Grasslands, Savannas & Shrublands",Pinus,26,9,1,5
+"Temperate Grasslands, Savannas & Shrublands",Pinus,27,6,1,5
+"Temperate Grasslands, Savannas & Shrublands",Pinus,28,20,1,5
+"Temperate Grasslands, Savannas & Shrublands",Pinus,29,12,1,3
+"Temperate Grasslands, Savannas & Shrublands",Pinus,30,27,2,9
+"Temperate Grasslands, Savannas & Shrublands",Pinus,31,10,1,3
+"Temperate Grasslands, Savannas & Shrublands",Pinus,32,5,1,2
+"Temperate Grasslands, Savannas & Shrublands",Pinus,33,2,1,2
+"Temperate Grasslands, Savannas & Shrublands",Pinus,34,4,1,4
+"Temperate Grasslands, Savannas & Shrublands",Pinus,35,10,1,7
+"Temperate Grasslands, Savannas & Shrublands",Pinus,36,3,1,2
+"Temperate Grasslands, Savannas & Shrublands",Pinus,37,1,1,1
+"Temperate Grasslands, Savannas & Shrublands",Pinus,38,2,1,1
+"Temperate Grasslands, Savannas & Shrublands",Pinus,40,16,2,7
+"Temperate Grasslands, Savannas & Shrublands",Pinus,41,4,1,3
+"Temperate Grasslands, Savannas & Shrublands",Pinus,42,5,1,3
+"Temperate Grasslands, Savannas & Shrublands",Pinus,43,1,1,1
+"Temperate Grasslands, Savannas & Shrublands",Pinus,44,4,1,3
+"Temperate Grasslands, Savannas & Shrublands",Pinus,45,3,1,2
+"Temperate Grasslands, Savannas & Shrublands",Pinus,46,1,1,1
+"Temperate Grasslands, Savannas & Shrublands",Pinus,47,1,1,1
+"Temperate Grasslands, Savannas & Shrublands",Pinus,48,2,1,1
+"Temperate Grasslands, Savannas & Shrublands",Pinus,50,7,2,5
+"Temperate Grasslands, Savannas & Shrublands",Pinus,51,2,1,2
+"Temperate Grasslands, Savannas & Shrublands",Pinus,52,1,1,1
+"Temperate Grasslands, Savannas & Shrublands",Pinus,54,2,1,2
+"Temperate Grasslands, Savannas & Shrublands",Pinus,55,2,1,2
+"Temperate Grasslands, Savannas & Shrublands",Pinus,60,10,1,3
+"Temperate Grasslands, Savannas & Shrublands",Pinus,61,1,1,1
+"Temperate Grasslands, Savannas & Shrublands",Pinus,64,1,1,1
+"Temperate Grasslands, Savannas & Shrublands",Pinus,65,5,1,4
+"Temperate Grasslands, Savannas & Shrublands",Pinus,66,1,1,1
+"Temperate Grasslands, Savannas & Shrublands",Pinus,68,2,1,2
+"Temperate Grasslands, Savannas & Shrublands",Pinus,70,1,1,1
+"Temperate Grasslands, Savannas & Shrublands",Pinus,72,1,1,1
+"Temperate Grasslands, Savannas & Shrublands",Pinus,80,6,1,1
+"Temperate Grasslands, Savannas & Shrublands",Pinus,90,2,1,1
+"Temperate Grasslands, Savannas & Shrublands",Pinus,92,2,1,1
+"Temperate Grasslands, Savannas & Shrublands",Populus,7,1,1,1
+"Temperate Grasslands, Savannas & Shrublands",Populus,8,6,6,2
+"Temperate Grasslands, Savannas & Shrublands",Populus,10,3,3,3
+"Temperate Grasslands, Savannas & Shrublands",Populus,12,1,1,1
+"Temperate Grasslands, Savannas & Shrublands",Populus,15,2,2,2
+"Temperate Grasslands, Savannas & Shrublands",Populus,16,1,1,1
+"Temperate Grasslands, Savannas & Shrublands",Populus,17,1,1,1
+"Temperate Grasslands, Savannas & Shrublands",Populus,23,2,2,2
+"Temperate Grasslands, Savannas & Shrublands",Pseudotsuga,13,1,1,1
+"Temperate Grasslands, Savannas & Shrublands",Pseudotsuga,22,3,3,1
+"Temperate Grasslands, Savannas & Shrublands",Pseudotsuga,32,2,2,1
+Tropical & Subtropical Dry Broadleaf Forests,Acacia,14,1,1,1
+Tropical & Subtropical Dry Broadleaf Forests,Eucalyptus,5,3,3,1
+Tropical & Subtropical Dry Broadleaf Forests,Eucalyptus,6,7,7,1
+Tropical & Subtropical Dry Broadleaf Forests,Eucalyptus,7,5,5,2
+Tropical & Subtropical Dry Broadleaf Forests,Eucalyptus,8,1,1,1
+Tropical & Subtropical Dry Broadleaf Forests,Eucalyptus,9,1,1,1
+Tropical & Subtropical Dry Broadleaf Forests,Eucalyptus,10,3,3,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Acacia,2,2,1,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Acacia,6,1,1,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Eucalyptus,1,4,4,2
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Eucalyptus,2,12,11,4
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Eucalyptus,3,10,10,4
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Eucalyptus,4,10,10,4
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Eucalyptus,5,9,9,4
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Eucalyptus,6,20,20,5
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Eucalyptus,7,4,4,2
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Eucalyptus,8,2,2,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Eucalyptus,9,2,2,2
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Eucalyptus,10,1,1,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Eucalyptus,11,1,1,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Eucalyptus,12,2,2,2
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Eucalyptus,14,1,1,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Eucalyptus,21,1,1,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Eucalyptus,26,1,1,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Eucalyptus,32,1,1,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Eucalyptus,33,2,2,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Eucalyptus,34,1,1,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Pinus,9,1,1,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Pinus,10,1,1,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Pinus,20,1,1,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Pinus,24,1,1,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Pinus,25,1,1,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Pinus,27,1,1,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Pinus,30,1,1,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Pinus,33,1,1,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Pinus,34,4,4,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Pinus,35,1,1,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Populus,2,2,2,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Populus,3,2,2,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Populus,4,2,2,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Populus,5,2,2,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Populus,6,2,2,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Populus,7,2,2,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Populus,8,2,2,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Populus,9,1,1,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Populus,10,1,1,1
+"Tropical & Subtropical Grasslands, Savannas & Shrublands",Populus,11,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Acacia,2,6,5,4
+Tropical & Subtropical Moist Broadleaf Forests,Acacia,3,2,2,2
+Tropical & Subtropical Moist Broadleaf Forests,Acacia,4,10,10,6
+Tropical & Subtropical Moist Broadleaf Forests,Acacia,5,3,3,3
+Tropical & Subtropical Moist Broadleaf Forests,Acacia,6,7,7,5
+Tropical & Subtropical Moist Broadleaf Forests,Acacia,7,5,5,4
+Tropical & Subtropical Moist Broadleaf Forests,Acacia,8,4,4,3
+Tropical & Subtropical Moist Broadleaf Forests,Acacia,9,5,5,2
+Tropical & Subtropical Moist Broadleaf Forests,Acacia,10,5,5,4
+Tropical & Subtropical Moist Broadleaf Forests,Acacia,11,10,10,4
+Tropical & Subtropical Moist Broadleaf Forests,Acacia,12,4,4,2
+Tropical & Subtropical Moist Broadleaf Forests,Acacia,13,5,5,3
+Tropical & Subtropical Moist Broadleaf Forests,Acacia,15,6,6,4
+Tropical & Subtropical Moist Broadleaf Forests,Acacia,16,4,4,2
+Tropical & Subtropical Moist Broadleaf Forests,Acacia,17,4,4,2
+Tropical & Subtropical Moist Broadleaf Forests,Acacia,18,4,4,2
+Tropical & Subtropical Moist Broadleaf Forests,Acacia,19,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Acacia,21,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Acacia,23,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Acacia,26,2,2,2
+Tropical & Subtropical Moist Broadleaf Forests,Acacia,40,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Cryptomeria,13,4,4,1
+Tropical & Subtropical Moist Broadleaf Forests,Cryptomeria,14,3,3,1
+Tropical & Subtropical Moist Broadleaf Forests,Cryptomeria,16,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Cryptomeria,37,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Cryptomeria,49,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Cryptomeria,60,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Cryptomeria,64,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Cryptomeria,69,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Cryptomeria,73,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Cryptomeria,77,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Cryptomeria,81,2,2,1
+Tropical & Subtropical Moist Broadleaf Forests,Cryptomeria,90,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Cryptomeria,93,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Cryptomeria,95,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,2,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,3,2,2,2
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,4,3,3,3
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,5,3,3,3
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,6,8,8,4
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,7,6,6,6
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,8,5,5,4
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,9,14,14,5
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,10,11,11,8
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,11,15,15,7
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,12,19,19,10
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,13,16,16,6
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,14,13,13,11
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,15,25,25,18
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,16,23,23,17
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,17,22,22,13
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,18,28,28,22
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,19,34,34,16
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,20,20,20,18
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,21,13,13,11
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,22,12,12,8
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,23,11,11,8
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,24,12,12,10
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,25,6,6,6
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,26,9,9,7
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,27,7,7,7
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,28,7,7,6
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,29,8,8,6
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,30,6,6,6
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,31,2,2,1
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,32,3,3,3
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,33,3,3,2
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,34,4,4,4
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,35,3,3,3
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,36,4,4,3
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,38,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,39,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,40,5,5,4
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,41,3,3,2
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,43,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,45,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,46,2,2,2
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,47,2,2,1
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,51,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,53,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,54,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,58,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,61,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,87,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Cunninghamia,88,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Eucalyptus,1,11,11,5
+Tropical & Subtropical Moist Broadleaf Forests,Eucalyptus,2,30,30,14
+Tropical & Subtropical Moist Broadleaf Forests,Eucalyptus,3,25,25,11
+Tropical & Subtropical Moist Broadleaf Forests,Eucalyptus,4,32,32,17
+Tropical & Subtropical Moist Broadleaf Forests,Eucalyptus,5,20,20,9
+Tropical & Subtropical Moist Broadleaf Forests,Eucalyptus,6,31,31,12
+Tropical & Subtropical Moist Broadleaf Forests,Eucalyptus,7,7,7,5
+Tropical & Subtropical Moist Broadleaf Forests,Eucalyptus,8,14,14,8
+Tropical & Subtropical Moist Broadleaf Forests,Eucalyptus,9,2,2,2
+Tropical & Subtropical Moist Broadleaf Forests,Eucalyptus,10,4,4,3
+Tropical & Subtropical Moist Broadleaf Forests,Eucalyptus,11,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Eucalyptus,16,2,2,2
+Tropical & Subtropical Moist Broadleaf Forests,Eucalyptus,18,4,4,2
+Tropical & Subtropical Moist Broadleaf Forests,Eucalyptus,19,3,3,1
+Tropical & Subtropical Moist Broadleaf Forests,Eucalyptus,24,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Eucalyptus,25,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Eucalyptus,40,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Eucalyptus,50,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,5,5,5,3
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,6,2,2,2
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,7,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,8,4,4,4
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,9,2,2,2
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,10,2,2,2
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,11,2,2,2
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,12,7,7,3
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,13,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,14,6,6,6
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,15,2,2,2
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,16,14,14,9
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,17,2,2,2
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,18,15,15,9
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,19,6,6,6
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,20,7,7,7
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,21,8,8,5
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,22,16,16,12
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,23,15,15,11
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,24,6,6,5
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,25,9,9,3
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,26,4,4,4
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,27,2,2,2
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,28,2,2,2
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,29,3,3,1
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,30,7,7,5
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,31,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,32,3,3,3
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,38,2,2,2
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,41,2,2,1
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,43,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,45,1,1,1
+Tropical & Subtropical Moist Broadleaf Forests,Pinus,54,1,1,1
